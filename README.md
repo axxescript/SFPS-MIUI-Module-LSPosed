@@ -64,4 +64,8 @@ About
 
 The v2.5.0 module supports various mobile and FPS games, you are required to install the SFPS MIUI v2.5.0 module, which is very different from the previous version which only supported some games. 
 enjoy the game
-   
+
+
+
+
+Copyright©. AxxeScript. all right reserved
