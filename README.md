@@ -1,3 +1,8 @@
+![Picsart_24-05-10_13-02-19-586](https://github.com/axxescript/SFPS-MIUI-Module-LSPosed/assets/143707720/c4f41aa9-7abc-43ae-b47c-334e671dbf5e)
+
+
+
+
 Moudule SFPS MIUI untuk android root
 
 module SFPS MIUI adalah module LSPosed artinya hanya dapat di aktifkan di aplikasi LSPosed
