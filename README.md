@@ -7,7 +7,9 @@ The MIUI SFPS module is an LSPosed module, meaning it can only be activated in t
 ## Benefits of modules
 - Can stabilize fps when playing games
 - Improve cellphone performance
-- Can unlock the highest graphics in the game bad impact of the module
+- Can unlock the highest graphics in the game
+- 
+## bad impact of the module
 - If the device does not support it, it can result in bootloop, black screen, and dropped fps.
 
 ## NOTE: 
