@@ -1,4 +1,4 @@
-![Picsart_24-05-10_14-22-09-576](https://github.com/axxescript/SFPS-MIUI-Module-LSPosed/assets/143707720/7bec6138-bcc1-43e5-99d3-23dd82039eda)
+![logo](logo.png)
 
 
 ## Introduction
