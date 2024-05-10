@@ -38,7 +38,7 @@ The MIUI SFPS module is an LSPosed module, meaning it can only be activated in t
 ## Useful Links
 
 - [Bug Reports](https://github.com/axxescript/SFPS-MIUI-Module-LSPosed/issues/1)
-- [Magisk Documentation](https://github.com/axxescript/SFPS-MIUI-Module-LSPosed/)
+- [SFPS MODULE Documentation](https://github.com/axxescript/SFPS-MIUI-Module-LSPosed/)
 
 ## License
 
