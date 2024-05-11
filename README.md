@@ -1,4 +1,4 @@
-![logo](logo.png)
+![logo](docs/images/logo.png)
 
 
 ## Introduction
