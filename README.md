@@ -17,6 +17,11 @@ The MIUI SFPS module is an LSPosed module, meaning it can only be activated in t
 ## NOTE: 
  - The module can only be run on Android 9-14
  - device must be (ROOT)
+
+## Screenshot
+ - `docs/image/ss-ff.jpg`
+ - `docs/image/ss-ml.jpg`
+ - `docs/image/ss-module.jpg`
    
  ## How to install
  - First install LSPosed
