@@ -37,9 +37,9 @@ The MIUI SFPS module is an LSPosed module, meaning it can only be activated in t
 ## Downloads
 [Github](https://github.com/axxescript/SFPS-MIUI-Module-LSPosed) is the only source where you can get official SFPS MODULE information and downloads.
 
-- [![Picsart_24-05-12_08-36-42-730](https://github.com/axxescript/SFPS-MIUI-Module-LSPosed/assets/143707720/e17fb1f9-fcdc-4389-af73-3f42283ff45c)
-](https://github.com/axxescript/SFPS-MIUI-Module-LSPosed/releases/tag/v2.5.0) `Recommended`
-- [![Picsart_24-05-12_08-37-13-173](https://github.com/axxescript/SFPS-MIUI-Module-LSPosed/assets/143707720/bc76ae65-2a87-47eb-9b77-fc0d085b5fcb)
+ [![SFPS v2.5.0](https://github.com/axxescript/SFPS-MIUI-Module-LSPosed/assets/143707720/e17fb1f9-fcdc-4389-af73-3f42283ff45c)
+](https://github.com/axxescript/SFPS-MIUI-Module-LSPosed/releases/tag/v2.5.0)
+ [![SFPS v1.0.0](https://github.com/axxescript/SFPS-MIUI-Module-LSPosed/assets/143707720/bc76ae65-2a87-47eb-9b77-fc0d085b5fcb)
 ](https://github.com/axxescript/SFPS-MIUI-Module-LSPosed/releases/tag/v1.0.0)
 
 ## Useful Links
