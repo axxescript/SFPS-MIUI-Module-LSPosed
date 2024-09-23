@@ -19,9 +19,9 @@ The MIUI SFPS module is an LSPosed module, meaning it can only be activated in t
  - device must be (ROOT)
 
 ## Screenshot
- - `docs/image/ss-ff.jpg`
- - `docs/image/ss-ml.jpg`
- - `docs/image/ss-module.jpg`
+ - [`preview game mobile legends`](https://github.com/axxescript/SFPS-MIUI-Module-LSPosed/tree/main/docs/images/ss-ml.jpg)
+ - [`preview game free fire`](https://github.com/axxescript/SFPS-MIUI-Module-LSPosed/tree/main/docs/images/ss-ff.jpg)
+ - [`preview module`](https://github.com/axxescript/SFPS-MIUI-Module-LSPosed/tree/main/docs/images/ss-module.jpg)
    
  ## How to install
  - First install LSPosed
